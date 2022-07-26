@@ -11,12 +11,19 @@ Meu nome é Ricardo, sou formado em Matemática e estou em transição de carrei
 Atualmente estou estudando Engenharia de Software pela [42SP](https://42sp.org.br/), complementando os meus estudos com os cursos da [Udemy](https://www.udemy.com/) e [Dio](https://www.dio.me/)
 
 ### Estou Aprendendo 
-<div>
-   <i class="devicon-github-original colored"></i>
   
- </div>
+ <div> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"   width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"  />     
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40" height="40" />
+</div>
 
-## Portfolio 
+
+# Portfolio 
 
 
 ## Contato 
@@ -27,7 +34,7 @@ Atualmente estou estudando Engenharia de Software pela [42SP](https://42sp.org.b
 <a href="https://www.linkedin.com/in/ricardo-y-yamachita-b0a1298b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
++ [Hiring Coders Profile](
 
 
 <!--
