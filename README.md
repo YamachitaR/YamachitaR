@@ -24,6 +24,19 @@ Atualmente estou estudando Engenharia de Software pela [42SP](https://42sp.org.b
 
 
 # Portfolio 
+Os pricipais projetos:
+
+**Desenvolvimento Web**
++ [Hiring Coders Profile](https://github.com/YamachitaR/Hiring_Coders-profile)
++ [Stylised Personal Site](https://github.com/YamachitaR/StylisedPersonalSite)
++ [Dio: FlexBox](https://github.com/YamachitaR/dio-flexbox)
+
+
+**Engenheiro de Software**
+
++ [Mini Talk](https://github.com/YamachitaR/42SP-minitalk)
++ [Push Swap](https://github.com/YamachitaR/42SP-PushSwap)
++ [Fractal](https://github.com/YamachitaR/42SP-fract-ol)
 
 
 ## Contato 
@@ -34,7 +47,7 @@ Atualmente estou estudando Engenharia de Software pela [42SP](https://42sp.org.b
 <a href="https://www.linkedin.com/in/ricardo-y-yamachita-b0a1298b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-+ [Hiring Coders Profile](
+
 
 
 <!--
