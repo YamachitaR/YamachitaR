@@ -1,11 +1,11 @@
-# Seja bem vindo o mundo Rickman 👋
+# Seja bem vindo ao mundo de Rickman 👋
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YamachitaR/yamachitar/main/pasta/linkedin_perfil_ricardo.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Meu nome é Ricardo, sou formado em Matemática e estou em transição de carreira. Quero me tornar Cientista de Dados e Back-End, para isso estou estudando python.
+Meu nome é Ricardo, tenho mestrado em Matemática e estou em transição de carreira. Quero me tornar Cientista de Dados e Back-End, para isso estou estudando python.
 
 ## Conhecimento 
 Atualmente estou estudando Engenharia de Software pela [42SP](https://42sp.org.br/) e  Ciêntista de Dados pelo [DataCamp](https://app.datacamp.com/portfolio/rickyamas), complementando os meus estudos com os cursos da [Udemy](https://www.udemy.com/),  [Dio](https://www.dio.me/), [freeCodeCamp](https://www.freecodecamp.org/). 
